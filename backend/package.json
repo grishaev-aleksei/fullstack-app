@@ -12,6 +12,7 @@
   "dependencies": {
     "body-parser": "latest",
     "express": "latest",
+    "internal-ip": "^3.0.1",
     "mongoose": "^5.4.9",
     "morgan": "^1.9.1"
   }
